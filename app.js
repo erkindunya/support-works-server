@@ -12,7 +12,7 @@ const ps = new powershell({
     noProfile: true
 });
 
-const path = "C:\\Users\\tappy\\Desktop\\testing.ps1";
+const path = "C:\\Users\\grant.tapp\\Desktop\\testing.ps1";
 
 app.use(bodyparser.urlencoded({
     extended: false
